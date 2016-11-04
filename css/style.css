@@ -1,0 +1,21 @@
+body {
+    text-align: center;
+}
+h2 {
+  margin-top: 0px;
+  margin-bottom: 0px;
+  margin-right: 0px;
+}
+#status {
+  height: auto;
+  width: 100%;
+  text-align: left;
+}
+#Fail {
+  margin-left: 10px;
+  color: red;
+}
+#Success {
+  margin-left: 10px;
+  color: green;
+}
